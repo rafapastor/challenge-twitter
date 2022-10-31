@@ -1,0 +1,77 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "Rafael Pastor",
+            "username": "@rafa",
+            "following": true
+        },
+        {
+            "id": 1,
+            "name": "John",
+            "username": "@john",
+            "following": false
+        },
+        {
+            "id": 2,
+            "name": "Jane",
+            "username": "@jane",
+            "following": true
+        },
+        {
+            "id": 3,
+            "name": "Bob",
+            "username": "@bob",
+            "following": false
+        },
+        {
+            "id": 4,
+            "name": "Alice",
+            "username": "@alice",
+            "following": true
+        },
+        {
+            "id": 5,
+            "name": "Tom",
+            "username": "@tom",
+            "following": false
+        }
+    ],
+    "tweets": [
+        {
+            "id": 1,
+            "userId": 1,
+            "username": "@john",
+            "text": "Hello World!",
+            "timestamp": "1667048339265"
+        },
+        {
+            "id": 2,
+            "userId": 2,
+            "username": "@jane",
+            "text": "Hello World user 2!",
+            "timestamp": "1667116801390"
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "username": "@bob",
+            "text": "Hello World user 3!",
+            "timestamp": "1667120458603"
+        },
+        {
+            "id": 4,
+            "userId": 4,
+            "username": "@alice",
+            "text": "Hello World user 4!",
+            "timestamp": "1667127686719"
+        },
+        {
+            "id": 5,
+            "userId": 5,
+            "username": "@tom",
+            "text": "Hello World user 5!",
+            "timestamp": "1667127702776"
+        }
+    ]
+}
